@@ -14,5 +14,6 @@ subject = sub-topic in the quote
 
 programming/computers.md
 
-### check for main topic folder before submitting
-### check for sub-topic before submitting
+#### check for main topic folder before submitting
+
+#### check for sub-topic before submitting
