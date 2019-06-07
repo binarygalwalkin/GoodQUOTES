@@ -5,12 +5,12 @@ Quotes for evrything --- a work in progress.
 Feel free to fork this repo and submit your own qoutes.
 
 ## USE this format
--> /folder/subject.md
+ -> /folder/subject.md 
 
 folder = main topic
 subject = sub-topic in the quote
 
-###for example:
+### for example:
 
 programming/computers.md
 
