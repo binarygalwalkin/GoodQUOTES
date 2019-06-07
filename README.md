@@ -1,5 +1,5 @@
 # GoodQUOTES
-Quotes for evrything --- a work in progress.
+Quotes for everything --- it is a work in progress.
 
 # Contributers
 Feel free to fork this repo and submit your own qoutes.
