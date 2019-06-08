@@ -8,6 +8,7 @@ Feel free to fork this repo and submit your own qoutes.
  -> /folder/subject.md 
 
 folder = main topic
+
 subject = sub-topic in the quote
 
 ### for example:
