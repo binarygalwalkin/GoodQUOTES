@@ -24,7 +24,7 @@
 
 # “All night, after the exhausting games of canasta, we would look over the immense sea, full of white-flecked and green reflections, the two of us leaning side by side on the railing, each of us far away, flying in his own aircraft to the stratospheric regions of his own dreams. There we understood that our vocation, our true vocation, was to move for eternity along the roads and seas of the world. Always curious, looking into everything that came before our eyes, sniffing out each corner but only ever faintly--not setting down roots in any land or staying long enough to see the substratum of things the outer limits would suffice.”  ― Ernesto Guevara, The Motorcycle Diaries: Notes on a Latin American Journey
 
-# “The saddest journey in the world is the one that follows a precise itinerary. Then you're not a traveler. You're a f@@king tourist.” ― Guillermo del Toro
+# “The saddest journey in the world is the one that follows a precise itinerary. Then you're not a traveler. You're a fucking tourist.” ― Guillermo del Toro
 
 # “Whither will my path yet lead me? This path is stupid, it goes in spirals, perhaps in circles, but whichever way it goes, I will follow it.”  ― Hermann Hesse, Siddharta
 
